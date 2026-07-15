@@ -1,7 +1,7 @@
 url: https://earthquake.personlin.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-15T17:22:48.009Z
+status: up
+code: 200
+responseTime: 387
+lastUpdated: 2026-07-15T17:53:24.053Z
 startTime: 2021-01-05T07:31:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
